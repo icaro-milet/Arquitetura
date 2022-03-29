@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DI", "DI", "{54EDC2C4-42D0-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquitetura.Fundamentos.DI", "Arquitetura.Fundamentos.DI\Arquitetura.Fundamentos.DI.csproj", "{9EB40967-60C8-4B12-83BC-40323218D0D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arquitetura.Fundamentos.Lifetime.DI", "Arquitetura.Fundamentos.Lifetime.DI\Arquitetura.Fundamentos.Lifetime.DI.csproj", "{F393FC56-DC63-46A9-AF66-077A24EE3D5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{9EB40967-60C8-4B12-83BC-40323218D0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EB40967-60C8-4B12-83BC-40323218D0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EB40967-60C8-4B12-83BC-40323218D0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F393FC56-DC63-46A9-AF66-077A24EE3D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F393FC56-DC63-46A9-AF66-077A24EE3D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F393FC56-DC63-46A9-AF66-077A24EE3D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F393FC56-DC63-46A9-AF66-077A24EE3D5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9EB40967-60C8-4B12-83BC-40323218D0D3} = {54EDC2C4-42D0-4BE0-BE58-B02836910395}
+		{F393FC56-DC63-46A9-AF66-077A24EE3D5A} = {54EDC2C4-42D0-4BE0-BE58-B02836910395}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E1390C-AFE2-48B2-A3CE-8CB3E9E1E497}

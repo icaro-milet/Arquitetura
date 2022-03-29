@@ -1,0 +1,8 @@
+﻿- Transient: São criados cada vez que são solicitados. Toda vez que se injetar o serviço em uma classe. será
+criada uma nova instância do serviço. Indicado para serviços leves e sem estado.
+
+- Scoped: Criados em cada solicitação(uma vez por solicitação do cliente). É indicado para aplicações WEB.
+Se durante um request você usar a mesma injeção de dependência em muitos lugares, você vai usar a mesma instância
+dos objetos, e ele fará referência a mesma alocação de memória.
+
+- Singleton: São criados uma vez durante a vida útil do aplicativo que usa a mesma instância para todo aplicativo.
