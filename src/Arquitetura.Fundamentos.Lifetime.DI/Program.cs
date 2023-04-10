@@ -6,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+
 //AddScoped - dentro de um escopo, retorna um objeto
 //AddSingleton - uma instancia no processo
 //AddTransient - uma nova a cada requisicao
