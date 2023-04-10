@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Arquitetura.Fundamentos.DesignPatterns.Creational.FactoryMethod.FactoryMethod" Collapsed="true">
+  <Class Name="Arquitetura.Fundamentos.DesignPatterns.Creational.FactoryMethod.FactoryMethod">
     <Position X="5.25" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
