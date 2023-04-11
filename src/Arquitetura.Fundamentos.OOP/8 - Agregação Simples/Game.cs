@@ -1,8 +1,7 @@
 ﻿namespace Arquitetura.Fundamentos.OOP._8___Agregação_Simples
 {
-    public class Universidade
+    public class Game
     {
         private string nome;
-        private Departamento[] departamentos;
     }
 }
